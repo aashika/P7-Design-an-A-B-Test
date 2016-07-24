@@ -1,0 +1,5 @@
+1. https://www.youtube.com/watch?v=_vXZiECRKKI
+2. https://discussions.udacity.com/t/final-project-hypothesis/37176/3
+3. https://en.wikipedia.org/wiki/Bonferroni_correction
+4. http://www.kurtosis.co.uk/technique/confidence/confidence.htm
+5. https://discussions.udacity.com/t/calculating-number-of-page-views-needed/161005
